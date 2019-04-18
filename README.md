@@ -1,2 +1,2 @@
 # ts-flunt
-TypeScript implementation of Domain Notifications Pattern based in Flunt (.NET) developed by @andrebaltieri
+TypeScript implementation of Domain Notification Pattern based in Flunt (.NET) developed by @andrebaltieri
